@@ -1,0 +1,10 @@
+C:\Users\Rexdu\Desktop\Fall 2020\Graphics Programming\Pacman Game\Pacman Game\bin\Debug\Pacman Game.exe.config
+C:\Users\Rexdu\Desktop\Fall 2020\Graphics Programming\Pacman Game\Pacman Game\bin\Debug\Pacman Game.exe
+C:\Users\Rexdu\Desktop\Fall 2020\Graphics Programming\Pacman Game\Pacman Game\bin\Debug\Pacman Game.pdb
+C:\Users\Rexdu\Desktop\Fall 2020\Graphics Programming\Pacman Game\Pacman Game\obj\Debug\Pacman Game.csprojAssemblyReference.cache
+C:\Users\Rexdu\Desktop\Fall 2020\Graphics Programming\Pacman Game\Pacman Game\obj\Debug\Pacman_Game.PacmanGame.resources
+C:\Users\Rexdu\Desktop\Fall 2020\Graphics Programming\Pacman Game\Pacman Game\obj\Debug\Pacman_Game.Properties.Resources.resources
+C:\Users\Rexdu\Desktop\Fall 2020\Graphics Programming\Pacman Game\Pacman Game\obj\Debug\Pacman Game.csproj.GenerateResource.cache
+C:\Users\Rexdu\Desktop\Fall 2020\Graphics Programming\Pacman Game\Pacman Game\obj\Debug\Pacman Game.csproj.CoreCompileInputs.cache
+C:\Users\Rexdu\Desktop\Fall 2020\Graphics Programming\Pacman Game\Pacman Game\obj\Debug\Pacman Game.exe
+C:\Users\Rexdu\Desktop\Fall 2020\Graphics Programming\Pacman Game\Pacman Game\obj\Debug\Pacman Game.pdb
